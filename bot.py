@@ -3,11 +3,11 @@ client=discord.Client()
 
 
 role_ranks={
-	'bronze':range(1,4),
-	'silver':range(5,9),
-	'gold':range(10,19),
-	'platinum':range(20,49),
-	'diamond':range(50,149),
+	'Bronze':range(1,4),
+	'Silver':range(5,9),
+	'Gold':range(10,19),
+	'Platinum':range(20,49),
+	'Diamond':range(50,149),
 }
 
 
