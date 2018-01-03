@@ -7,7 +7,7 @@ role_ranks={
 	'Silver':range(5,9),
 	'Gold':range(10,19),
 	'Platinum':range(20,49),
-	'Diamond':range(50,149),
+	'Diamond':range(50,149)
 }
 
 
